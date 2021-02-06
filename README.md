@@ -6,3 +6,4 @@
 2.前端代码 npm install先生成node_modules
 3.用微信开发者工具打开 
 运行截图如下：
+![主页](https://github.com/songyao123/cloud-music/blob/main/images/index.png)
